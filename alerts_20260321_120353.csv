@@ -1,3 +1,0 @@
-Time,IP,Port,Type,Severity,Status,Details
-2026-03-21 12:03:50,162.159.134.234,-,Possible DoS / Port Scan,High,Open,162.159.134.234 crossed suspicious traffic threshold and was blacklisted.
-2026-03-21 12:03:50,192.168.29.177,-,Possible DoS / Port Scan,High,Open,192.168.29.177 crossed suspicious traffic threshold and was blacklisted.

@@ -1,6 +1,0 @@
-Time,IP,Port,Type,Severity,Status,Details
-2026-03-23 12:45:34,10.24.71.124,-,Possible DoS / Port Scan,High,Open,10.24.71.124 crossed threshold 50 and was blacklisted.
-2026-03-23 12:45:35,142.251.157.119,-,Possible DoS / Port Scan,High,Open,142.251.157.119 crossed threshold 50 and was blacklisted.
-2026-03-23 12:46:04,10.24.71.248,-,Possible DoS / Port Scan,High,Open,10.24.71.248 crossed threshold 50 and was blacklisted.
-2026-03-23 12:46:14,10.24.69.208,-,Possible DoS / Port Scan,High,Open,10.24.69.208 crossed threshold 50 and was blacklisted.
-2026-03-23 12:46:15,0.0.0.0,-,Possible DoS / Port Scan,High,Open,0.0.0.0 crossed threshold 50 and was blacklisted.
